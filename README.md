@@ -6,4 +6,4 @@ Im Editor müssen Sie noch den Pfard zum Thempack hinterlegen.
 
 ## Thempack
 
-Sie können sich alles in den Einstellungen -> ~Personalisierung~, solange es die Organisation zulässt, alles ändern 
+Sie können sich alles in den _Einstellungen_ -> _Personalisierung_, solange es die Organisation zulässt, alles ändern 
