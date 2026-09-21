@@ -1,3 +1,4 @@
+<img width="873" height="316" alt="Frame 2" src="https://github.com/user-attachments/assets/13eb4d99-4f14-4320-98cd-0acdbe736c22" />
 # quickboot-setup
 
 Die "Start_bsp.bat" herunterladen und auf dem Destop legen
@@ -12,7 +13,8 @@ _Einstellungen_ -> _Personalisierung_ -> _Desings_
 <img width="834" height="268" alt="Screenshot Speichen" src="https://github.com/user-attachments/assets/6ab019e9-1afd-47bf-9379-65a9f9415e55" />
 
 Auf das Neuhinzugefügte Theam mit **Rechtsklick** im Explorer speichern _H:\ empfolen_
-<img width="873" height="317" alt="Screenshot Freigabe Speichern" src="https://github.com/user-attachments/assets/75f7522e-46b7-405a-933a-914ebd194e1d" />
+<img width="873" height="316" alt="Screenshot Freigabe Speichern" src="https://github.com/user-attachments/assets/c60b3ffe-da6f-4639-a508-6dce75711796" />
+
 
 
 
