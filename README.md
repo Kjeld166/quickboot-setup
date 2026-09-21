@@ -1,4 +1,3 @@
-<img width="873" height="316" alt="Frame 2" src="https://github.com/user-attachments/assets/13eb4d99-4f14-4320-98cd-0acdbe736c22" />
 # quickboot-setup
 
 Die "Start_bsp.bat" herunterladen und auf dem Destop legen
