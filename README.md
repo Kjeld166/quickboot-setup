@@ -1,7 +1,7 @@
 # quickboot-setup
 
 ## Quick Start
-Die "Start_bsp.bat" herunterladen und auf dem Destop legen
+Die "Start_bsp.bat" herunterladen und auf dem Destop legen. <br>
 Im Editor müssen Sie noch den Pfard zum Thempack hinterlegen. 
 
 ---
