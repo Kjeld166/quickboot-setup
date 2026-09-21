@@ -1,41 +1,6 @@
 # quickboot-setup
 
 ## Quick Start
-Die "Start_bsp.bat" herunterladen und auf dem Destop legen. <br>
-Im Editor müssen Sie noch den Pfard zum Thempack hinterlegen. 
-
----
-
-## Was macht bringt dir das? 
-
-Wir haben ein kleines Skibt geschrieben um auf den Rechnern nicht alles Manuell einsellen zu müssen. So können sie nach dem Anmelden einmal diese Datei ausführen und alles stellt sich von alleine ein.
-
-
-**Features**
-- Hintergundbild 
-- Farbe
-- Lernsax einbidung im Explorer
-- Explorer Pfrad öffnen
-
----
-
-## Thempack ersellen
-
-Sie können sich alles in den _Einstellungen_ -> _Personalisierung_ ändern (solange es die Organisation zulässt)
-
-_Einstellungen_ -> _Personalisierung_ -> _Desings_ 
-
-Auf das Neuhinzugefügte Theam mit **Rechtsklick** im Explorer speichern _"H:\" empfolen_
-
-
-Im Speicherort der datei mit einem weiteren Rechtklich kopieren und im Scibt hinzufügen
-
-
-
-
-# quickboot-setup
-
-## Quick Start
 Laden Sie die Datei **„Start_bsp.bat“** herunter und legen Sie diese auf dem **Desktop** ab. 
 Im Editor müssen Sie anschließend noch den **Pfad** zum **Theme-Pack** hinterlegen. 
 
