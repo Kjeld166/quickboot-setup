@@ -6,4 +6,9 @@ Im Editor müssen Sie noch den Pfard zum Thempack hinterlegen.
 
 ## Thempack
 
-Sie können sich alles in den _Einstellungen_ -> _Personalisierung_, solange es die Organisation zulässt, alles ändern 
+Sie können sich alles in den _Einstellungen_ -> _Personalisierung_ ändern (solange es die Organisation zulässt)
+
+_Einstellungen_ -> _Personalisierung_ -> _Desings_ 
+<img width="834" height="268" alt="Screenshot Speichen" src="https://github.com/user-attachments/assets/6ab019e9-1afd-47bf-9379-65a9f9415e55" />
+
+
